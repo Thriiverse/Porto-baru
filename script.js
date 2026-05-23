@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (badge) {
     const messages = [
       'Available for freelance',
-      'Mahasiswa UNNES Semarang',
+      'Mahasiswa Universitas Negeri Semarang',
       'Open to collaborate',
       'Ready to create',
     ];
